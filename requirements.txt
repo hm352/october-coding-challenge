@@ -1,2 +1,3 @@
 flask-restful
-
+google-api-python-client
+pytest
